@@ -2,7 +2,7 @@
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-A cada projeto desenvolvido, por mais simples que seja o projeto acabamos sempre por aprender alguma coisa. E durante o discover da rocketseat pode aprender muito, em especial na parte do css conceito que costumavam a ser difícil para mim tornaram simples, porque foram explicado de uma forma simples e direito ao ponto,  o que tornou essa experiência muito boa. <br/>
+A cada projeto desenvolvido, por mais simples que seja o projeto acabamos sempre por aprender alguma coisa. E durante o discover da rocketseat pode aprender muito, em especial na parte do css conceito que costumavam a ser difícil para mim tornaram - se simples, porque foram explicado de uma forma simples e direito ao ponto,  o que tornou essa experiência muito boa. <br/>
 <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui - Link para Rocketseat.</a>
 </p>
 
